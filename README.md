@@ -1,8 +1,8 @@
 REM 1. Clone project
-git clone https://github.com/erzmayy/project-laravel.git
+git clone https://github.com/erzmayy/thrift-shop.git
 
 REM 2. Masuk folder
-cd project-laravel
+cd thrift-shop
 
 REM 3. Install dependency
 composer install
@@ -23,7 +23,7 @@ php artisan migrate:fresh --seed
 
 
 REM 6. (Optional) Edit DB di file .env
-REM DB_DATABASE=project_laravel
+REM DB_DATABASE=thrift-shop
 REM DB_USERNAME=root
 REM DB_PASSWORD=
 
@@ -32,14 +32,16 @@ php artisan migrate
 
 REM 8. Jalankan Laravel
 npm run dev/php artisan serve
-# SELESAI! Buka browser:
-# Frontend: http://thrift-shop.test
-# Admin: http://thrift-shop.test/admin/dashboard
-# 
-# Login Admin:
-# Email: admin@thriftshop.com
-# Password: password
-# 
-# Login Customer:
-# Email: customer@thriftshop.com
+
+
+ SELESAI! Buka browser:
+Frontend: http://thrift-shop.test
+Admin: http://thrift-shop.test/admin/dashboard
+
+Login Admin:
+Email: admin@thriftshop.com
+Password: password
+
+Login Customer:
+Email: customer@thriftshop.com
 # Password: password
