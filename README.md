@@ -44,4 +44,4 @@ Password: password
 
 Login Customer:
 Email: customer@thriftshop.com
-# Password: password
+Password: password
