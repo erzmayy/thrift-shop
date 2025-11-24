@@ -82,7 +82,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                     <div>
                         <h3 class="text-xl font-bold mb-4">ThriftShop</h3>
-                        <p class="text-gray-400">Platform jual beli barang bekas berkualitas</p>
+                        <p class="text-gray-400">Marketplace pilihan untuk menemukan item berkualitas dengan harga bersahabat</p>
                     </div>
                     <div>
                         <h4 class="font-semibold mb-4">Link Cepat</h4>
@@ -98,7 +98,7 @@
                     </div>
                 </div>
                 <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-                    <p>&copy; 2024 ThriftShop. All rights reserved.</p>
+                    <p>&copy; 2025 ThriftShop. All rights reserved.</p>
                 </div>
             </div>
         </footer>
